@@ -1,4 +1,4 @@
-# hotchocolate_custom_filter
+# Customm filter in [Hot Chocolate](https://chillicream.com/docs/hotchocolate)
 
 Hey, if you want to add case insensitive custom filter operation in hotchocolate then you can find solution below.
 
