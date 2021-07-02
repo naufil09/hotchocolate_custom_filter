@@ -63,4 +63,6 @@ services.AddGraphQLServer()
                                     y => y.AddFieldHandler<QueryableStringInvariantContainsHandler>()))));
 ```
 
-you can also refer this link too : [C# Dynamic lambda problem with implementing "IndexOf" ignore case](https://dynamic-linq.net/knowledge-base/57830194/csharp-dynamic-lambda-problem-with-implementing--indexof--ignore-case)
+you can also refer this links too : 
+1. [C# Dynamic lambda problem with implementing "IndexOf" ignore case](https://dynamic-linq.net/knowledge-base/57830194/csharp-dynamic-lambda-problem-with-implementing--indexof--ignore-case)
+2. [Extending Filtering](https://chillicream.com/docs/hotchocolate/api-reference/extending-filtering#extending-iqueryable)
