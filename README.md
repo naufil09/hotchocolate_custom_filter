@@ -1,4 +1,4 @@
-# Customm filter in [Hot Chocolate](https://chillicream.com/docs/hotchocolate)
+# Custom filter in [Hot Chocolate](https://chillicream.com/docs/hotchocolate)
 
 If you want to add case insensitive custom filter operation in hotchocolate then you can find solution below.
 
